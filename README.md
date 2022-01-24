@@ -1,0 +1,1 @@
+A temporary placeholder website using a modded CoDrops template, while experimenting with coding my personal site in VS Code, updating to GitHub, and publishing to a main site.
