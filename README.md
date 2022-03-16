@@ -1,1 +1,1 @@
-A temporary placeholder website while experimenting with coding my personal site in VS Code, updating to GitHub, and publishing to a main site.
+A temporary placeholder website 
